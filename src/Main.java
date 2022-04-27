@@ -13,7 +13,7 @@ public class Main {
 		System.out.println("Aretano Giuseppe");
 		System.out.println("Caputo Daniel");
 		System.out.println("Scarlino Emanuele");
-		System.out.println("cujune");
+		
 		
 		
 	}
